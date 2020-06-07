@@ -1,0 +1,1 @@
+Get the latest release of USBInjectAll here: https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/

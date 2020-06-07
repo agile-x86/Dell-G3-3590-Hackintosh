@@ -1,0 +1,1 @@
+Get the latest release of SMCBatteryManager here: https://github.com/acidanthera/virtualsmc/releases

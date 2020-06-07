@@ -1,0 +1,1 @@
+Get the latest release of VoodooInput here: https://github.com/acidanthera/VoodooInput/releases

@@ -1,0 +1,1 @@
+Get the latest release of VoodooI2CHID here: https://github.com/VoodooI2C/VoodooI2C/releases

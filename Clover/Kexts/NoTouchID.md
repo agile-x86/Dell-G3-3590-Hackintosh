@@ -1,0 +1,1 @@
+Get the latest release of NoTouchID here: https://github.com/al3xtjames/NoTouchID/releases

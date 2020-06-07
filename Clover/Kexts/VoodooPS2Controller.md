@@ -1,0 +1,1 @@
+Get the latest release of VoodooPS2Controller here: https://github.com/acidanthera/VoodooPS2/releases

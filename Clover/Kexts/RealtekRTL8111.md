@@ -1,0 +1,1 @@
+Get the latest release of RealtekRTL8111 here: https://github.com/Mieze/RTL8111_driver_for_OS_X/releases

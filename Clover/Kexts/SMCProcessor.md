@@ -1,0 +1,1 @@
+Get the latest release of SMCProcessor here: https://github.com/acidanthera/virtualsmc/releases

@@ -1,0 +1,1 @@
+Get the latest release of WhateverGreen here: https://github.com/acidanthera/WhateverGreen/releases

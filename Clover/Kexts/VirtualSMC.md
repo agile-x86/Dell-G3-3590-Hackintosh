@@ -1,0 +1,1 @@
+Get the latest release of VirtualSMC here: https://github.com/acidanthera/virtualsmc/releases

@@ -1,0 +1,1 @@
+Get the latest release of "AppleALC" here: https://github.com/acidanthera/AppleALC/releases

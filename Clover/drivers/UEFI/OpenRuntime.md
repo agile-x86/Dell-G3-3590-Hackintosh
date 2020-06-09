@@ -1,0 +1,1 @@
+Get OpenRuntime.efi from here: https://github.com/ReddestDream/OcQuirks/releases

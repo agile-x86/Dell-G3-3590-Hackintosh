@@ -1,0 +1,1 @@
+Get OcQuirks.efi from here: https://github.com/ReddestDream/OcQuirks/releases

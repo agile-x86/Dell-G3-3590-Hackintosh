@@ -1,4 +1,4 @@
-Get this file here: https://github.com/acidanthera/applesupportpkg/releases
+Get ApfsDriverLoader.efi from here: https://github.com/acidanthera/applesupportpkg/releases
 
 (This file is found in the assets for version 2.1.6)
 

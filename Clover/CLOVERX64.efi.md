@@ -1,1 +1,1 @@
-Grab the latest release of CLOVERX64.efi from here: https://github.com/CloverHackyColor/CloverBootloader/releases
+Get the latest release of CLOVERX64.efi from here: https://github.com/CloverHackyColor/CloverBootloader/releases

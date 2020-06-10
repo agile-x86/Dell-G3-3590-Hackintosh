@@ -1,1 +1,1 @@
-Grab the latest release of BOOTX64.efi from here: https://github.com/CloverHackyColor/CloverBootloader/releases
+Get the latest release of BOOTX64.efi from here: https://github.com/CloverHackyColor/CloverBootloader/releases
